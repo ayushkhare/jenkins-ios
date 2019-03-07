@@ -436,7 +436,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = H3G9M8MB5Y;
+				DEVELOPMENT_TEAM = AFCLV4LXGQ;
 				INFOPLIST_FILE = "jenkins-ios/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -453,7 +453,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = H3G9M8MB5Y;
+				DEVELOPMENT_TEAM = AFCLV4LXGQ;
 				INFOPLIST_FILE = "jenkins-ios/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
