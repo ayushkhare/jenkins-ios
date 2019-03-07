@@ -1,0 +1,3 @@
+[submodule "jenkins-ios-submodule"]
+	path = jenkins-ios-submodule
+	url = https://github.com/ayushkhare/jenkins-ios-submodule.git
